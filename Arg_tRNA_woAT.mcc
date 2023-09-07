@@ -250,5 +250,5 @@ explore(
 	structure
 	option( model_limit = 9999, seed = 3210 )
 	rmsd( 1.0 sidechain && !( pse || lp || hydrogen ) )
-	pdb( "tRNA_phe" zipped )
+	pdb( "tRNA_arg" zipped )
 )
